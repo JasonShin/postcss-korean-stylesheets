@@ -4,21 +4,15 @@ module.exports = postcss.plugin('postcss-ass', function() {
     return function(css) {
 
         css.eachDecl(function transformDecl(decl) {
-            decl.prop = decl.prop.replace('colour', 'color');
-            decl.prop = decl.prop.replace('zed-index', 'z-index');
-            decl.value = decl.value.replace('centre', 'center');
-            decl.value = decl.value.replace('true-blue', '#0581C1');
-            decl.value = decl.value.replace('vegemite', '#461B00');
-            decl.value = decl.value.replace('vb-green', '#2D8249');
-            decl.value = decl.value.replace('kangaroo', '#E6924A');
-            decl.value = decl.value.replace('koala', '#B6B7BC');
-            decl.value = decl.value.replace('yeah-nah', 'none');
-            decl.value = decl.value.replace('fair-dinkum', 'border-box');
-            decl.value = decl.value.replace('rack-off', 'hidden');
-            decl.value = decl.value.replace('woop-woop', '-9999px');
+            decl.prop = decl.prop.replace('kimchi-index', 'z-index');
+            decl.value = decl.value.replace('kimchi', 'red');
+            decl.value = decl.value.replace('white-kimchi', 'white');
+            decl.value = decl.value.replace('black-kimchi', 'black');
+            decl.value = decl.value.replace('green-kimchi', 'green');
+            decl.value = decl.value.replace('pink-kimchi', 'pink');
 
-            if (decl.value.indexOf('!bloody-oath') >= 0) {
-                decl.value = decl.value.replace(/\s*!bloody-oath\s*/, '');
+            if (decl.value.indexOf('!리얼') >= 0) {
+                decl.value = decl.value.replace(/\s*!리얼\s*/, '!important');
                 decl.important = true;
             }
         });

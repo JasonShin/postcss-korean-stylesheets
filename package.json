@@ -1,13 +1,13 @@
 {
-    "name": "postcss-australian-stylesheets",
-    "version": "0.0.6",
-    "description": "PostCSS plugin for writing Australian Style Sheets",
-    "keywords": ["postcss", "css", "postcss-plugin", "australia", "australian", "australian-stylesheets"],
-    "author": "David Lewis <mail@david-lewis.com>",
+    "name": "postcss-korean-stylesheets",
+    "version": "0.0.1",
+    "description": "PostCSS plugin for writing Korean Style Sheets",
+    "keywords": ["postcss", "css", "postcss-plugin", "korean", "korean", "korean-stylesheets"],
+    "author": "Jason Shin <visualbbasic@gmail.com>",
     "license": "MIT",
     "repository": {
         "type": "git",
-        "url":  "https://github.com/dp-lewis/postcss-australian-stylesheets.git"
+        "url":  ""
     },
     "dependencies": {
         "postcss": "^4.1.5"
