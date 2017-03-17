@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/JasonShin/postcss-korean-stylesheets.svg?branch=master)](https://travis-ci.org/JasonShin/postcss-korean-stylesheets)
 
 [PostCSS] plugin for writing Korean Stylesheets.
 
