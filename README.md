@@ -8,10 +8,15 @@
 .foo {
     kimchi-index: 9999;
     background-color: kimchi;
-    color: white-kimchi;
-    color: black-kimchi;
-    color: green-kimchi;
-    color: pink-kimchi !리얼;
+    color: 주;
+    color: 노;
+    color: 초;
+    color: 파;
+    color: 남;
+    color: 보;
+    color: 검;
+    color: 흰;
+    color: 갈;
 }
 ```
 
@@ -20,10 +25,15 @@
 .foo {
     z-index: 9999;
     background-color: red;
-    color: white;
-    color: black;
+    color: orange;
+    color: yellow;
     color: green;
-    color: pink !important;
+    color: blue;
+    color: darkblue;
+    color: purple;
+    color: black;
+    color: white;
+    color: brown;
 }
 ```
 
