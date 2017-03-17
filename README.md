@@ -7,7 +7,7 @@
 ## Korean syntax
 ```css
 .foo {
-    kimchi-index: 9999;
+    ㅋ: 9999;
     background-color: kimchi;
     color: 주;
     color: 노;
