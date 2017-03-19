@@ -11,15 +11,15 @@ send your ideas to ```visualbbasic@gmail.com```
 .foo {
     ㅋ: 9999;
     background-color: kimchi;
-    color: 주;
-    color: 노;
-    color: 초;
-    color: 파;
-    color: 남;
-    color: 보;
-    color: 검;
-    color: 흰;
-    color: 갈;
+    색: 주;
+    색: 노;
+    색: 초;
+    색: 파;
+    색: 남;
+    색: 보;
+    색: 검;
+    색: 흰;
+    색: 갈;
     진열: 유연;
     진열: 고정;
     진열: 절대;

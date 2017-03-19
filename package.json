@@ -1,6 +1,6 @@
 {
     "name": "postcss-korean-stylesheets",
-    "version": "0.0.5",
+    "version": "0.0.6",
     "description": "PostCSS plugin for writing Korean Style Sheets",
     "keywords": ["postcss", "css", "postcss-plugin", "korean", "korean", "korean-stylesheets"],
     "author": "Jason Shin <visualbbasic@gmail.com>",

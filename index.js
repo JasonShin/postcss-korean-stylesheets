@@ -7,6 +7,7 @@ module.exports = postcss.plugin('postcss-ass', function() {
 			decl.prop = decl.prop.replace('ㅋ', 'z-index');
 
 			// Colours
+			decl.prop = decl.prop.replace('색', 'color');
 			decl.value = decl.value.replace('kimchi', 'red');
 			decl.value = decl.value.replace('주', 'orange');
 			decl.value = decl.value.replace('노', 'yellow');
