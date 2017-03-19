@@ -4,7 +4,7 @@
 
 [PostCSS]: https://github.com/postcss/postcss
 
-send your ideas to ```visualbbasic@gmail.com```
+send your ideas to ```visualbbasic+koreancss@gmail.com```
 
 ## Korean syntax
 ```css
