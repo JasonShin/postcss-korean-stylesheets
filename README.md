@@ -48,6 +48,9 @@ postcss([ require('postcss-korean-stylesheets') ])
 
 See [PostCSS] docs for examples for your environment.
 
+## Find this plugin at
+http://postcss.parts/tag/fun
+
 ## Thanks to
 
 Inspiration from [Canadian Stylesheets](https://github.com/chancancode/postcss-canadian-stylesheets) and chats with [@darylljann](https://twitter.com/darylljann)

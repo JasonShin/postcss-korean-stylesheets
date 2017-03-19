@@ -66,4 +66,21 @@ describe('postcss-korean-stylesheets', function() {
 		test('a{ color: 갈; }', 'a{ color: brown; }', {}, done);
 	});
 
+	// Displays
+	it('converts 진열 to display', function(done) {
+		test('a{ 진열: flex; }', 'a{ display: flex; }', {}, done);
+	});
+
+	it('converts 유연 to flex', function(done) {
+		test('a{ display: 유연; }', 'a{ display: flex; }', {}, done);
+	});
+
+	it('converts 절대 to absolute', function(done) {
+		test('a{ display: 절대; }', 'a{ display: absolute; }', {}, done);
+	});
+
+	it('converts 고정 to absolute', function(done) {
+		test('a{ display: 고정; }', 'a{ display: fixed; }', {}, done);
+	});
+
 });
