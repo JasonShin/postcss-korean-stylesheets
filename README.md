@@ -20,6 +20,9 @@ send your ideas to ```visualbbasic@gmail.com```
     color: 검;
     color: 흰;
     color: 갈;
+    진열: 유연;
+    진열: 고정;
+    진열: 절대;
 }
 ```
 
@@ -37,6 +40,9 @@ send your ideas to ```visualbbasic@gmail.com```
     color: black;
     color: white;
     color: brown;
+    display: flex;
+    display: fixed;
+    display: absolute;
 }
 ```
 
