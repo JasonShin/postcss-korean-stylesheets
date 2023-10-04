@@ -10,7 +10,7 @@
         "url":  "https://github.com/JasonShin/postcss-korean-stylesheet"
     },
     "dependencies": {
-        "postcss": "^4.1.5"
+        "postcss": "^8.4.31"
     },
     "devDependencies": {
         "gulp-eslint": "0.9.0",
